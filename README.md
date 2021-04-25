@@ -12,3 +12,11 @@ Matching identies is tricky, for example multiple spellings and differing collec
    1. explore ways to compine feature scores into identity scores
    1. North American address matching
 1. Native C code support? 
+
+# Getting started
+```
+$ pipenv install --all
+```
+
+running tests:
+`$ pipenv run tests`
